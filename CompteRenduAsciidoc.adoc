@@ -1,0 +1,62 @@
+= _Compte Rendu Projet Geoworld_
+
+Geoworld est une application destinée à des professeurs d’histoire et de
+géographie.
+
+Elle doit permettre aux professeurs, comme aux élèves, de consulter des
+informations sur les pays du monde. Les données de cette application
+sont obsolètes et c’est donc à nous d’y apporter toutes les
+modifications possibles.
+
+Ce projet a été découper en plusieurs partie une partie individuel ou il
+fallait que nous puissions afficher une liste des pays par défaut et
+pouvoir l’améliorer par la suite
+
+image:F:/AP/laragon/www/geoworld/images/ascii image 1.png[image,width=174,height=297]image:F:/AP/laragon/www/geoworld/images/ascii image 2.png[image,width=289,height=351]
+
+image:F:/AP/laragon/www/geoworld/images/ascii image 3.png[image,width=604,height=57]Malheureusement
+pour les pour certain pays il n’y avait aucune donner de population donc
+un code erreur était afficher
+
+image:F:/AP/laragon/www/geoworld/images/ascii image 4.png[image,width=478,height=233]
+
+Nous aurions pu faire en sorte de modifier le code pour qu'une phrase
+s'affiche au lieu du message d'erreur.
+
+Dans le projet nous avons effectuer une page php de connexion pour l’administrateur, l’enseignant et l’élève cette page est donc relier a notre page qui affiche les continents, et cette page renvoie à une base de donner qui déterminera en fonction du login et mot de passe qui vous êtes. Mais le renvoie de la page n'a pas fonctionner.  
+
+image:F:/AP/laragon/www/geoworld/images/ascii image 5.png[image,width=604,height=57]
+
+image:F:/AP/laragon/www/geoworld/images/ascii image 6.png[image,width=478,height=233]
+
+
+image:F:/AP/laragon/www/geoworld/images/Capture 1.png[image,width=256,height=153]
+c'est ce qui s'affiche après s'être connecter
+
+
+image:F:/AP/laragon/www/geoworld/images/Capture 2.png[image,width=443,height=222]
+c'est ce qui s'affiche après avoir cliquer sur administrateur, ça permet à la gestion des statuts role de la personne connecter
+
+
+image:F:/AP/laragon/www/geoworld/images/Capture 3.png[image,width=377,height=125]
+c'est ce qui s'affiche quand on s'apprete de modifier le role
+
+image:F:/AP/laragon/www/geoworld/images/Capture 4.png[image,width=377,height=166]
+c'est la page que peut modifier l'enseignant mais ça ne fonctionne pas
+
+
+
+https://github.com/simonlesly/Geoworld-Project.git
+
+
+
+
+
+
+
+
+
+
+
+
+
